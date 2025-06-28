@@ -1,0 +1,13 @@
+package com.krakedav;
+/*
+ * comentario de varias lineas 
+ * */
+public class TestPersona {
+	
+	public static void main(String[] args) {
+		//Esto es un comentario 
+		int a;
+		String b;
+	}
+
+}

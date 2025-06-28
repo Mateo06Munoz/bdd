@@ -1,0 +1,13 @@
+package com.krakedav;
+/*
+ * comentario de varias lineas 
+ * */
+public class TestPersona {
+	
+	public static void main(String[] args) {
+		Personas p;//1. Declaro una variable llamada p de tipo  persona 
+		p=new Personas();//2 .instanciar un objeto Persona, referenciarlo con p 
+		System.out.println(p);
+	}
+	
+}
