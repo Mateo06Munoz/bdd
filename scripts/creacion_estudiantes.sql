@@ -1,6 +1,6 @@
 --crear estudiante de informacion
 
-create table estudiantes(
+create table 	(
 	cedula char(10)not null,
 	nombre varchar(50)not null,
 	apellido varchar(50)not null ,

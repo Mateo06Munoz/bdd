@@ -20,7 +20,7 @@ values (23432,'33333',135,'D','3/1/2000','23:56')
 insert into transacciones (codigo,numero_cuenta,monto,tipo,fecha,hora)
 values (234324,'44444',532,'C','4/1/2000','23:56')
 
-insert into transacciones (codigo,numero_cuenta,monto,tipo,fecha,hora)
+insert into transacciones (codigo,numero_cuenta,monto,tipo,fecha,hora)	
 values (6546,'55555',345,'C','5/1/2000','23:56')
 
 insert into transacciones (codigo,numero_cuenta,monto,tipo,fecha,hora)
